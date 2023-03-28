@@ -9,7 +9,7 @@
   1. 克隆本项目
 
       ```shell
-      git clone 
+      git clone https://github.com/is-not-lie/centos-clash.git
       ```
 
   2. 将你的 clash 配置文件复制一份到项目的根目录
